@@ -1,0 +1,1 @@
+The stock firmware for the Longer LK1 printer (V2.20 Nov 10 2020) does not support G2/G3 commands and halts during prints when encountering these commands. Upgrading the firmware to the "Longer Beta Marlin (V3.0T009-2.0.5.2) does work.
